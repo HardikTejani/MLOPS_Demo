@@ -26,8 +26,6 @@ import joblib
 '''
 IRIS Classification
 '''
-__author__ = "Hardik Tejani"
-__email__ = "Hardik_Tejani@scmhrd.edu"
 
 class IRISClassification():
     def __init__(self, args):
